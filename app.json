@@ -2,9 +2,9 @@
   "name": "stream.data",
   "displayName": "stream.data",
   "expo": {
-    "name": "stream.data",
-    "scheme": "stream.data",
-    "slug": "streamData",
+    "name": "streamDataRafa",
+    "scheme": "streamDataRafa",
+    "slug": "streamDataRafa",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
